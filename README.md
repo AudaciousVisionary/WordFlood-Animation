@@ -1,2 +1,2 @@
 # WordFlood-Animation
-Front page for a project website, flooded with words 
+Front page Animation for a project website, flooded with words 
